@@ -12,7 +12,7 @@ At the moment, I’m working as a mobile developer at Ples, building exciting pr
 
 * 🌍  I'm based in Cartagena, Colombia
 * ✉️  You can contact me at [rdavidgonzaleza@outlook.com](mailto:rdavidgonzaleza@outlook.com)
-* 🧠  I'm learning Go
+* 🧠  I'm learning CI/CD and AI Agents with n8n!
 * ⚡  I really love my girlfriend
 
 ### Skills
