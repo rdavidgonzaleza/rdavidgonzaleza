@@ -8,7 +8,7 @@ I’ve been programming for about three years and hold a Bachelor's degree in Co
 
 I gained valuable experience as a Data Scientist at OlimpIA, where I built interactive dashboards using Power BI and developed a time series prediction model with ARIMA, working exclusively in Python.
 
-At the moment, I’m working as a mobile developer at Ples, building exciting projects using Flutter. In the near future, I’m looking forward to exploring Kotlin Multiplatform and continuing to grow as a developer across different technologies.
+At the moment, I’m working as a freelancer developer, building exciting projects using Flutter, Spring and Angular. In the near future, I’m looking forward to exploring Kotlin, Swift or Kotlin Multiplatform and continuing to grow as a developer across different technologies.
 
 * 🌍  I'm based in Cartagena, Colombia
 * ✉️  You can contact me at [rdavidgonzaleza@outlook.com](mailto:rdavidgonzaleza@outlook.com)
