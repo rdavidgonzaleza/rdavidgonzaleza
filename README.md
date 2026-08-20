@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruben Gonzalez
 ======================================================================================================================================
 
-Mobile Developer | Data Scientist
+FullStack Developer | Data Scientist
 ---------------------------------
 
-I’ve been working as a programmer for about three years and I hold a Bachelor's degree in Computer Science. Currently, I’m pursuing a degree in Systems Engineering to deepen my technical knowledge.
+I’ve been working as a programmer for about three years and I've worked as a Data Scientist for almost a year. I hold a Bachelor's degree in Computer Science. Currently, I’m pursuing a degree in Systems Engineering to deepen my technical knowledge.
 
 At the moment, I’m working as a freelancer developer, building some peak projects using Flutter, Go, Spring, React and Angular. In the near future, I’m looking forward to exploring Kotlin and Swift, and continuing to grow as a developer across different technologies.
 
