@@ -4,14 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer | Data Scientist
 ---------------------------------
 
-I’ve been programming for about three years and hold a Bachelor's degree in Computer Science. Currently, I’m pursuing a degree in Systems Engineering to deepen my technical knowledge.
+I’ve been working as a programmer for about three years and I hold a Bachelor's degree in Computer Science. Currently, I’m pursuing a degree in Systems Engineering to deepen my technical knowledge.
 
-I gained valuable experience as a Data Scientist at OlimpIA, where I built interactive dashboards using Power BI and developed a time series prediction model with ARIMA, working exclusively in Python.
-
-At the moment, I’m working as a freelancer developer, building exciting projects using Flutter, Spring and Angular. In the near future, I’m looking forward to exploring Kotlin, Swift or Kotlin Multiplatform and continuing to grow as a developer across different technologies.
+At the moment, I’m working as a freelancer developer, building some peak projects using Flutter, Go, Spring, React and Angular. In the near future, I’m looking forward to exploring Kotlin and Swift, and continuing to grow as a developer across different technologies.
 
 * 🌍  I'm based in Cartagena, Colombia
-* ✉️  You can contact me at [rdavidgonzaleza@outlook.com](mailto:rdavidgonzaleza@outlook.com)
+* ✉️  You can contact me at [rdavidgonzaleza@gmail.com](mailto:rdavidgonzaleza@gmail.com)
 * 🧠  I'm learning CI/CD and AI Agents with n8n!
 * ⚡  I really love my girlfriend
 
